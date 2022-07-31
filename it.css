@@ -1,0 +1,17 @@
+body{
+    
+    margin: 15px;;
+    padding: 2px;
+    font-family: 'Poppins', sans-serif; 
+    font-weight: 300;
+}
+body{
+    border:5px;
+    text-align:justify;
+    background-color: lavender;
+    background-repeat: no-repeat;
+    
+}
+.scroll{
+    color:brown;
+}
